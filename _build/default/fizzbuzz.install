@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/fizzbuzz/META"
+  "_build/install/default/lib/fizzbuzz/dune-package"
+  "_build/install/default/lib/fizzbuzz/opam"
+]
+bin: [
+  "_build/install/default/bin/fizzbuzz"
+]
