@@ -1,7 +1,9 @@
 Learning Ocaml, starting with fizzbuzz
 
+## October 31 2024:
+Refactored to a better solution, did look at a better solution after I wrote it the first time, but that was 2 months ago. Just tried to use what I learned from that.
 
-August 2024:
+## August 2024:
 After looking at other implementations, i'm still writing very imperatively, but i don't know enough language features yet to put everything into a single match case
 ```ocaml
 let invalid_args: _ =
